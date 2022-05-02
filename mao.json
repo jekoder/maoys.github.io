@@ -1,6 +1,7 @@
 {"sites":[
   {"key":"csp_appysv2_天空影视V2","name":"天空影视V2(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.tkys.tv/xgapp.php/v2/"},
   {"key":"csp_xpath_if101","name":"if101(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://jekoder.github.io/maoys.github.io/sub/xpath/if101.json"},
+  {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
   {"key":"csp_Buka","name":"真不卡(爬虫)","type":3,"api":"csp_Buka","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Auete","name":"Auete(爬虫)","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
